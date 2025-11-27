@@ -4,7 +4,7 @@ Com base no código da solução (HTML, CSS e JavaScript para as páginas `index
 
 # 🌐 Sustentabilidade Tapera: Monitoramento ODS 6
 
-[]https://github.com/jamilf1/taperaODS6.git
+[]https://github.com/douglasCarmo/Tapera-ODS6.git
 
 \<hr\>
 
